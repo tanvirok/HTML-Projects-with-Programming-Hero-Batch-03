@@ -1,0 +1,147 @@
+/*======== Default ===== */
+section{
+    padding: 50px 0;
+}
+
+
+
+
+
+/*========= header section ===========*/
+.navbar-nav{
+    margin-left: auto;
+}
+
+/*========= first section ============*/
+#home{
+    padding-top: 0;
+}
+#home img{
+    width: 100%;
+}
+.book{
+    padding-right: 220px;
+}
+.buy-now-button {
+    background: #000;
+    color: #fff;
+    border: navajowhite;
+    padding: 9px 25px;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+.book h1{
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.book p{
+    color: gray;
+}
+
+/*======= smartphone section ==========*/
+
+.smart-phone h3{
+        font-weight: bold;
+}
+.smart-a{
+    margin-left: auto;
+}
+.smart-a a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: orange;
+}
+
+.smartphon-card{
+    margin-top: 5px;
+}
+.card{
+    padding: 20px 10px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card h5{
+    font-weight: bold;
+}
+.card-title{
+    margin-bottom: 10px;
+}
+.card p {
+    color: gray;
+    margin-bottom: 10px;
+}
+.card-body {
+    margin-top: 15px;
+    text-align: center;
+}
+.card img{
+    width: 100%;
+}
+
+/*=========== laptop section =========*/
+.laptop h3{
+    font-weight: bold;
+}
+.laptop-a{
+    margin-left: auto;
+}
+.laptop-a a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: orange;
+}
+.laptop .card{
+    margin-top: 15px;
+}
+
+/*============ categories section ===========*/
+.categories-h2 h2{
+    font-weight: bold;
+}
+.categories img{
+    width: 100%;
+}
+.single-image{
+    margin-left: 135px;
+}
+.double-images{
+    margin-left: 70px;
+}
+.one-image {
+    padding: 25px;
+}
+.two-images {
+    padding: 25px;
+}
+.thisRow1 {
+    box-shadow: 2px 5px 5px 6px lightgray;
+    border-radius: 0 15px 0 15px;
+}
+.thisRow2 {
+    box-shadow: 5px 4px 8px 7px lightgray;
+    border-radius: 15px 0 15px 0;
+    margin-bottom: 30px;
+}
+.thisRow3 {
+    box-shadow: 4px 14px 17px 10px lightgray;
+    border-radius: 0 15px 0 15px;
+}
+.last-one{
+    margin-top: 45px;
+}
+
+
+
+
+
+
+
+
+
+

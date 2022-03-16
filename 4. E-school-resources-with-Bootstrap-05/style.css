@@ -1,0 +1,206 @@
+
+
+
+
+/*======== header section =======*/
+#header{
+    background-color: #F0FFF0;
+    padding-top: 20px;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.logo{
+    width: 20%;
+}
+.logo img{
+    width: 100%;
+}
+.nav-item{
+    padding: 0 16px;
+    font-size: 18px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #000;
+    font-weight: 600;
+}
+.btn {
+    padding: 5px 35px;
+    background: #21B573;
+    color: #fff;
+    border-radius: 50px;
+    font-weight: 600;
+}
+ul.navbar-nav .btn{
+    margin-left: 50px;
+}
+
+/*======== first section ========*/
+#first-section{
+    background-color: #F0FFF0;
+    padding: 50px 0;
+}
+#first-section img{
+    width: 100%;
+}
+.one{
+    font-size: 20px;
+    color: red;
+    padding-bottom: 30px;
+
+}
+#first-section h1{
+    font-weight: bold;
+    width: 75%;
+    line-height: 55px;
+}
+#first-section h1 span{
+    color: #21B573;
+}
+.two{
+    width: 75%;
+    margin-top: 20px;
+    color: #6c6b6b;
+    margin-bottom: 50px;
+}
+
+/* ====== secound section  ======= */
+#secound-section .card img{
+    width: 35%;
+    margin: auto;
+}
+#secound-section .card{
+    text-align: center;
+    padding: 35px 5px;
+    height: 270px;
+    border: none;
+    background: #f8fffb;
+}
+.card h5{
+    font-weight: bold;
+    margin-top: 15px;
+}
+.card p{
+    color: #6c6b66;
+}
+.secound-section-row{
+    margin: 30px 0;
+}
+#secound-section .card-secound{
+    background: #fff;
+    box-shadow: 5px 5px 5px 5px #ddd;
+}
+
+/* ====== courses section ======= */
+#courses{
+    padding: 40px 0;
+}
+#courses h2{
+    font-weight: bold;
+    width: 22%;
+    margin: auto;
+}
+
+.span-2{
+    margin-left: auto;
+}
+.text-muted span{
+    font-weight: 600;
+}
+#courses .card{
+    padding-bottom: 10px;
+    padding: 25px 10px;
+    border: none;
+    box-shadow: 5px 5px 5px 5px #ddd;
+    border-radius: 12px;
+}
+.card-footer{
+    border: none;
+    background: none;
+}
+#courses .card img{
+    width: 92%;
+    margin: auto;
+}
+#courses .btn{
+    margin-top: 16px;
+    margin-bottom: 5px;
+}
+.courses-section-row{
+    padding: 45px 0;
+}
+
+/* ======= testimonial section ======= */
+
+#testimonial h2{
+    width: 18%;
+    margin: auto;
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.testimonial-card{
+    max-width: 70%;
+    margin: auto;
+    border: none;
+}
+.col-md-9{
+    width: 66%;
+    margin-left: auto;
+}
+.testimonial-card h3{
+    width: 35%;
+    margin: auto;
+    font-weight: bold;
+}
+.testimonial-row{
+    align-items: center;
+    display: flex;
+    margin-bottom: 40px;
+}
+
+
+/* ===== last section ===== */
+#last-section{
+    background: #000;
+    padding: 60px 0;
+}
+#last-section h6{
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+}
+#last-section ul{
+    list-style: none;
+    padding-left: 0;
+}
+#last-section ul li{
+
+}
+#last-section ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+#last-section .last-section-col-3{
+    width: 165px;
+}  
+#last-section .col-md-2, .last-section-col-3{
+    margin-left: 40px;
+} 
+#last-section .col-md-5 p{
+    width: 80%;
+    color: #fff;
+}
+
+/* ====== footer section ===== */
+#footer-section{
+    background: #000;
+    padding: 15px 0;
+}
+#footer-section p{
+    width: 22%;
+    margin: auto;
+    color: #fff;
+}
+
+
